@@ -23,8 +23,7 @@ This tool can be useful when making decisions in League of Legends champion sele
 
 ## **Deployment**
 
-1. Download the `app.R` file.
-2. Download the datasets for League professional matches in 2024 and 2025 from this [Google Drive link](https://drive.google.com/drive/u/0/folders/1gLSw0RLjBbtaNy0dgnGQDAZOHIgCe-HH).
-3. Install the required R dependencies.
-4. Ensure the `app.R` file and datasets are in the same folder.
-5. Run the `app.R` file.
+1. Download the datasets for League professional matches in 2024 and 2025 from this [Google Drive link](https://drive.google.com/drive/u/0/folders/1gLSw0RLjBbtaNy0dgnGQDAZOHIgCe-HH).
+2. Install the required R dependencies.
+3. Ensure the `app.R` file and datasets are in the same folder.
+4. Run the `app.R` file.
